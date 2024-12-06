@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+nltk
+spacy
+sentence-transformers
+huggingface-hub==0.10.1
+psycopg2-binary==2.9.10
+boto3
+redis
+pytest
+python-dotenv  # Changed from dotenv to python-dotenv
