@@ -7,8 +7,11 @@ Project Structure:
 The project consists of the following main components:
 
 generate_embs_final.py: Script to generate and store embeddings for QnA pairs, including pre-processing, embedding generation, and storing them in S3.
+
 similarity_analysis_no_redis.py: Script to analyze the similarity between a selected QnA pair and others within the same subtopic.
+
 requirements.txt: Contains all the dependencies required for the project.
+
 secrets.env: Environment file containing database credentials, S3 keys, etc.
 
 Sample Output: 
